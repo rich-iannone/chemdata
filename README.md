@@ -15,11 +15,11 @@ A dataset containing information on 71,453 chemical compounds. Contains the foll
 * melting point
 * boiling point
 * refractive index
-* flash_point
-* water_solubility
-* hazard_symbols
-* risk codes
-* safety description
+* flash point
+* water solubility
+* EU classification
+* R-phrases (EU risk codes)
+* S-phrases (EU safety description)
 * transport information
 
 Future additions
