@@ -1,5 +1,4 @@
-ChemicalCompounds
-=================
+<img src="inst/ChemicalCompounds.png">
 
 A dataset containing information on 71,453 chemical compounds. Contains the following variables:
 
